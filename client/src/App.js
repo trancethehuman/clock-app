@@ -11,7 +11,7 @@ function handleClick() {
 
 function App() {
   return (
-    <button onClick={()=>{handleClick()}}>
+    <button className="button" onClick={()=>{handleClick()}}>
       Get server time in milliseconds
     </button>
   );
