@@ -1,5 +1,8 @@
 # A Clock App to display local server's time in milliseconds
 
+## What is this?
+It's web-app that lets you view your server's time in milliseconds, made with NodeJS, Express and React.
+
 ## Getting Started
 1. Clone this repo and install dependencies
     - Make sure to have git installed. Using your Terminal (if you are on Mac or Linux, or Powershell if you are on Windows). Navigate to a preferred directory, and <code>git clone https://github.com/trancethehuman/clock-app.git</code> in there.
